@@ -17,13 +17,13 @@ Real experimental XRD data analysis for CSC MS Data Science application.
 - Fast Quench: 45,742 counts - High disorder, high magnetostriction
 
 ### File 1 - 673K Quenched Real Data
-![Real XRD](fega_real_xrd.png)
+![Real XRD](fega_real_xrd.jpeg)
 
 ### File 2 - 1000°C Annealed Real Data
-![File2](fega_file2_real.png)
+![File2](fega_file2_real.jpeg)
 
 ### Comparison - Effect of Heat Treatment
-![Comparison](fega_comparison.png)
+![Comparison](fega_comparison.jpeg)
 
 ## Analysis Tools
 Python, NumPy, Matplotlib - Data Science for Material Science
